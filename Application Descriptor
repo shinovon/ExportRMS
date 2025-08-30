@@ -1,7 +1,7 @@
 MIDlet-Vendor: Vendor
 MIDlet-Version: 1.0.0
 MicroEdition-Configuration: CLDC-1.0
-MIDlet-1: ExportRMS,,R
+MIDlet-1: PortRMS,,R
 MIDlet-Name: Name
 MicroEdition-Profile: MIDP-2.0
 MIDlet-Jar-URL: ExportRMS.jar
